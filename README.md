@@ -2,7 +2,7 @@
 
 <b> Hello and welcome to my webpage. </b>
 
-Please see my attached portfolio to find out more about me 
+Please see my attached portfolio to find out more about me and my projects I have worked on. 
 
 <b> Want to work with me? </b>
 
